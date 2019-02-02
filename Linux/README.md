@@ -12,6 +12,8 @@ https://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/foreward.html
 
 http://www.filepermissions.com/
 
+*Quick Cheat Sheet:*
+
 ![linux-permissions](linux_permissions.png)
 
 # Git
