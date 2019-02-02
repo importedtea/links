@@ -12,7 +12,7 @@ https://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/foreward.html
 
 http://www.filepermissions.com/
 
-![linux-permissions](img/linux_permissions.png)
+![linux-permissions](linux_permissions.png)
 
 # Git
 
