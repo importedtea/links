@@ -36,3 +36,8 @@ http://www.shelldorado.com/
 
 *Syntax Proofreading:*
 https://www.shellcheck.net/
+
+# TTY
+
+*The TTY Demystified:*
+https://www.linusakesson.net/programming/tty/
