@@ -34,6 +34,9 @@ https://rpmfind.net/linux/rpm2html/search.php?query=&submit=Search+...&system=&a
 *Shell Scripting Resource:*
 http://www.shelldorado.com/
 
+*Break down shell commands:*
+https://explainshell.com/
+
 *Syntax Proofreading:*
 https://www.shellcheck.net/
 
