@@ -24,6 +24,11 @@ https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-prac
 
 https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
 
+### Video Guides
+
+*Advanced Git Usage:*
+https://www.youtube.com/watch?v=0SJCYPsef54
+
 # RPM
 
 *RPM Package Database:*
