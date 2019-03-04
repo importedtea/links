@@ -49,3 +49,11 @@ https://www.shellcheck.net/
 
 *The TTY Demystified:*
 https://www.linusakesson.net/programming/tty/
+
+# gsettings
+
+*Get a listing of all gsettings; grep to find*
+
+`gsettings list-recursively`
+
+`gsettings list-recursively | grep www`
