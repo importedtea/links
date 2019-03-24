@@ -50,6 +50,11 @@ https://www.shellcheck.net/
 *The TTY Demystified:*
 https://www.linusakesson.net/programming/tty/
 
+# /dev/random
+
+*Myths:*
+https://www.2uo.de/myths-about-urandom
+
 # gsettings
 
 *Get a listing of all gsettings; grep to find*
@@ -57,3 +62,8 @@ https://www.linusakesson.net/programming/tty/
 `gsettings list-recursively`
 
 `gsettings list-recursively | grep www`
+
+# apt
+
+*HTTPS:*
+https://whydoesaptnotusehttps.com/
