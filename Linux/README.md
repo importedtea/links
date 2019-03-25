@@ -67,3 +67,7 @@ https://www.2uo.de/myths-about-urandom
 
 *HTTPS:*
 https://whydoesaptnotusehttps.com/
+
+# pushd; popd
+
+https://agilesysadmin.net/understanding-pushd-and-popd/
