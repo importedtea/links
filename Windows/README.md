@@ -51,6 +51,10 @@ Enabling PSRemoting:
 Enable-PSRemoting -Force
 ```
 
+```cmd
+winrm quickconfig -quiet
+```
+
 You can apply PSRemoting by using a GPO, or a tool made my Microsoft called `PSExec` (requires FP Sharing)
 
 If you run into an error:
