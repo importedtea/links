@@ -48,10 +48,12 @@ Here are some other specifics:
 Enabling PSRemoting:
 
 ```ps
+# powershell
 Enable-PSRemoting -Force
 ```
 
 ```cmd
+# cmd
 winrm quickconfig -quiet
 ```
 
