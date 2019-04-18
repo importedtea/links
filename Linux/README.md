@@ -36,6 +36,9 @@ https://rpmfind.net/linux/rpm2html/search.php?query=&submit=Search+...&system=&a
 
 # Shell Scripting
 
+*Bash Style Guide:*
+https://google.github.io/styleguide/shell.xml
+
 *Shell Scripting Resource:*
 http://www.shelldorado.com/
 
